@@ -8,7 +8,7 @@ const getSum = (...args) => {
   console.log(`The total sum of array number ${occ} is ${totalSum}`);
   arraysTotal += totalSum;
   if (occ === 4) {
-    console.log(`The Grand Total of all arrays is ${arraysTotal}`);
+    console.log(`The Grand Total of all the arrays is ${arraysTotal}`);
   }
 };
 
